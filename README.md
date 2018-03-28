@@ -1,3 +1,3 @@
 # intro-go-book
 
-Gotta get Go-ing
+Go-tta get Go-ing 
