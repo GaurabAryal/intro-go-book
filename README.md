@@ -1,3 +1,3 @@
 # intro-go-book
 
-Go-tta get Go-ing 
+learning/refreshing all things Go
