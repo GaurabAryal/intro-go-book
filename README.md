@@ -1,3 +1,3 @@
 # intro-go-book
 
-learning/refreshing all things Go
+Gotta get Go-ing
